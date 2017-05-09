@@ -35,3 +35,9 @@ full support for dd/split unit suffixes for chunk_size
 
 alternative: add makefile output with dd to split
 ```
+
+# License
+
+This software is available under the following licenses:
+
+* Apache 2.0
